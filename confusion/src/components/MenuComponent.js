@@ -1,6 +1,6 @@
 import React from 'react';
-import { Card,CardBody,CardImg, CardImgOverlay, CardTitle } from 'reactstrap';
-// import Dishdetail from './DishdetailComponent';
+import { Card, CardImg, CardImgOverlay, CardTitle } from 'reactstrap';
+import Dishdetail from './DishdetailComponent';
 
    
 function RenderMenuItem({ dish, onClick }) {
