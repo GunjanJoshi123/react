@@ -33,3 +33,7 @@ address{
     height: 70px;
 }
 
+.button{
+    position:absolute;
+    right:30px;
+}
